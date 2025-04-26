@@ -20,7 +20,3 @@
 1. Клонируйте репозиторий:
    ```bash
    git clone https://github.com/ваш_пользователь/Chicken-Jockey.git
-
-# stackblitz-starters-pecq83fh
-
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/Noralik/stackblitz-starters-pecq83fh)
